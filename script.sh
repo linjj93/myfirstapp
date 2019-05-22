@@ -1,0 +1,4 @@
+echo "Hello, JJ"
+
+pwd
+
